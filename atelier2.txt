@@ -1,0 +1,60 @@
+1) Récupérer l'archive suivante https://www.outofpluto.com/media/uploads/formation/shell/intro-shell.zip
+```
+
+```
+2) Désarchiver le fichier
+```
+
+```
+3) Changer de répertoire pour le répertoire désarchivé
+```
+
+```
+4) Concaténer tous les fichiers . txt dans all. txt
+```
+
+```
+5) Afficher le nom de tous les fichiers qui contiennent le mot Hello
+```
+
+```
+6) Afficher le nombre de fichiers contenant le mot Hello
+```
+
+```
+7) Afficher le résultat de la commande python credits sans fichier
+```
+
+```
+8) Trouver le nombre total de lignes de code dans tous les .py d'un répertoire (sans compter les lignes vides)
+```
+
+```
+9) Afficher toutes les lignes d'un fichier qui apparaissent en double
+```
+
+```
+10) Afficher uniquement les permissions et noms des fichiers d'un dossier
+```
+
+```
+11) Afficher le chemin absolu des 10 fichiers les plus gros dans un dossier et ses sous-dossiers
+```
+
+```
+12) Afficher les lignes communes à deux fichiers
+```
+
+```
+13) Afficher tous les fichiers exécutables dans le répertoire courant
+```
+
+```
+14) Compter combien de fichiers sont vides dans un dossier et ses sous-dossiers
+```
+
+```
+15) Lister tous les fichiers qui ont été modifiés dans les 24 dernières heures
+```
+
+```
