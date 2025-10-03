@@ -1,2 +1,4 @@
-Chloe CHABAUD
-Nils Moreau--Thomas
+-   Chloe CHABAUD
+-   Nils Moreau--Thomas
+
+![](./consignes.png)
