@@ -1,2 +1,1 @@
-# Intro_git
-dépôt exercices
+Chloe CHABAUD
