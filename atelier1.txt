@@ -1,0 +1,27 @@
+Trouver et exécuter les commandes permettant de réaliser les actions suivantes
+1) Obtenir la documentation de la commande ls
+man ls
+2) Afficher le chemin du répertoire en cours
+pwd
+3) Afficher la liste des fichiers dans le répertoire en cours
+ls
+4) Changer de répertoire pour la racine du système de fichier (ou du disque principal)
+cd /
+5) Afficher les fichiers et le détail des droits
+ls -l
+6) Afficher son nom d'utilisateur
+whoami
+7) Afficher l'historique des commandes récentes
+history
+8) Réexécuter la commande 5) sans la taper
+fleche clavier
+9) Afficher le contenu d'un fichier texte
+cat nom_fichier.txt
+10) Lancer firefox (ou n'importe quel navigateur)
+firefox &
+Il) Créer un répertoire puis créer un fichier dans ce répertoire (sans utiliser cd)
+mkdir nom_repertoire touch nom_fichier
+12) Supprimer le répertoire créé en 11)
+rmdir nom_fichier
+13) Explorer l'utilisation de la touche Tab et des flèches directionnelles
+14) Explorer les raccourcis comme Ctrl+A, Ctrl+L ou Ctrl+E
