@@ -19,7 +19,7 @@ cd intro-shell
 4. Concaténer tous les fichiers . txt dans all. txt
 
 ```sh
-find . -type f -name "\*.txt" > all.txt
+cat *.txt > all.txt
 ```
 
 5. Afficher le nom de tous les fichiers qui contiennent le mot Hello
@@ -61,7 +61,7 @@ ls -l | awk '{print $1, $9}' # cellule 1 et 9 de chaque ligne, permissions et no
 11. Afficher le chemin absolu des 10 fichiers les plus gros dans un dossier et ses sous-dossiers
 
 ```sh
-find [chemin absolu dossier] -type f -exec du -b {} + | sort -rn | head -n 10 # $(pwd) pour chemin absolu dans le find, puis on tri par taille, puis on select les 10 premiers
+find [chemin absolu dossier] -type f -exec du -b {} + | sort -rn | head -n 10 # chemin absolu dans le find, puis on tri par taille, puis on select les 10 premiers
 ```
 
 > ℹ️ il faut être dans le dossier dans lequel on fait la recherche
