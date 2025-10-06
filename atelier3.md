@@ -1,7 +1,7 @@
 1. Tester wcl.sh
 
 ```sh
-bash ./wcl.sh [fichier texte]
+bash ./wcl.sh [fichier texte] #Compte le nombre de mots sur chaques lignes
 ```
 
 2. Résoudre ce problème :
