@@ -43,7 +43,7 @@ python3 -c "print(credits)"
 8. Trouver le nombre total de lignes de code dans tous les .py d'un répertoire (sans compter les lignes vides)
 
 ```sh
-grep -r --include="_.py" -v "^\s_$" . | wc -l # selectionne toutes les lignes sauf celles matchant le regex
+grep -r --include="*.py" -v "^\s_$" . | wc -l # selectionne toutes les lignes sauf celles matchant le regex
 ```
 
 9. Afficher toutes les lignes d'un fichier qui apparaissent en double
