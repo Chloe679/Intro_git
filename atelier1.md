@@ -60,13 +60,13 @@ firefox &
 11. Créer un répertoire puis créer un fichier dans ce répertoire (sans utiliser cd)
 
 ```sh
-mkdir -p [nom répertoire] && touch [nom fichier]
+mkdir -p [nom répertoire] | touch [nom répertoire]/[nom fichier]
 ```
 
 12. Supprimer le répertoire créé en 11)
 
 ```sh
-rmdir [nom fichier]
+rm -r [nom répertoire]
 ```
 
 13. Explorer l'utilisation de la touche Tab et des flèches directionnelles
